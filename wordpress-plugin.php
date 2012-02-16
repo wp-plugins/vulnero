@@ -1,15 +1,15 @@
 <?php
 /*
-Plugin Name: MyApp
-Plugin URI: http://appwebsite.com/
-Description: My app which is built on Vulnero, a WordPress plugin that transforms WordPress into an object-oriented CMS by implementing a Zend Framework application that interfaces with its API.
-Version: 0.1.1
-Author: Your Name
-Author URI: http://authorwebsite.com/
+Plugin Name: Vulnero
+Plugin URI: http://www.vulnero.com/
+Description: Transform WordPress into an object-oriented CMS by implementing a Zend Framework application that interfaces with its API.
+Version: 1.0.1
+Author: Andrew Kandels
+Author URI: http://andrewkandels.com/
 */
 
 /**
- * My App is based on Vulnero
+ * Example app entry point.
  *
  * WordPress entry-point file containing plug-in definition.
  *
